@@ -31,6 +31,8 @@ I regularly write articles on Android development and related technologies. Chec
 ### 🔥 GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JigarRangani)
 
+![](https://komarev.com/ghpvc/?username=JigarRangani)
+
 
 ---
 
